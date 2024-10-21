@@ -1,8 +1,14 @@
 1 commit in main
 2 commit in main
 <<<<<<< HEAD
+<<<<<<< HEAD
 3 commit in main
 ======
 
 1 commit in hotfix
 >>>>>>> hotfix
+=======
+3 commit in main
+1 commit in develop
+2 commit in develop
+>>>>>>> develop
